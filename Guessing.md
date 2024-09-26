@@ -1,5 +1,5 @@
-#Number Guessing
-##Flowchart
+# Number Guessing
+## Flowchart
 ```mermaid
 flowchart TD
 A[Start] --> B[Generate Number 1-10]
@@ -10,4 +10,5 @@ C -->|Three| F[Not Numeric]
 E --> |One| G[Too High]
 E --> |One| H[Too Low]
 ```
-##Documentation 
+## Documentation 
+###### The Program is started and a number is generated. The user is asked to guess a number. Show the user if the input is correct, incorect, or invalid. If incorrect 
